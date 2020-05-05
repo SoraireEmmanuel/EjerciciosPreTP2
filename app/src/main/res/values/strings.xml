@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EjerciciosPreTP2</string>
+    <string name="Titulo">Ejercicios Pre TP2</string>
+    <string name="btn_ejercicio1">Ejercicio 1</string>
+    <string name="btn_ejercicio2">Ejercicio 2</string>
+
+    <string name="TituloEjercicio1">Aplicacion de los Buenos Modales</string>
+    <string name="btn_gracias">Gracias</string>
+    <string name="btn_estornudar">Estornudar</string>
+
+    <string name="TituloEjercicio2">¿Que tal fue tu dia?</string>
+    <string name="btn_enviar">Contestar</string>
+    <string name="respuesta1">Excelente</string>
+    <string name="respuesta2">Bueno</string>
+    <string name="respuesta3">Malo</string>
+    <string name="respuesta4">Pésimo</string>
+
+    <string name="contrarespueta1">¡Que Buena Noticia!</string>
+    <string name="contrarespuesta2">Seguro mañana sera excelente</string>
+    <string name="contrarespuesta3">¡Vamos! Que no decaiga</string>
+    <string name="contrarespuesta4">¡Arriba ese animo!</string>
+
+</resources>
